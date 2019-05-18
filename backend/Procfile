@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT modelling_pictures_3501.wsgi:application

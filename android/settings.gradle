@@ -1,0 +1,3 @@
+rootProject.name = 'modelling_pictures_3501'
+
+include ':app'
